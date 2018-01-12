@@ -1,0 +1,8 @@
+p1 = Worker()
+p2 = Worker(1)
+p3 = Worker(1, "foo")
+p4 = Worker(1, "foo", 10)
+p5 = Worker(1, "foo", 10, 100.0)
+p6 = Worker(1, "foo", 10, 100.0, true)
+println("<<all people>>")
+println("p1 = ", toString(p1))

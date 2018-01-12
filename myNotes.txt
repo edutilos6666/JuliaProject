@@ -1,0 +1,1 @@
+`type` keyword was replaced with `struct` keyword 
